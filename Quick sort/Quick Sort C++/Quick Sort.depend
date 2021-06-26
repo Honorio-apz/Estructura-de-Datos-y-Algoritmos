@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1624145089 source:d:\quick sort\quick sort\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+
+1624145089 source:d:\sort\quick sort\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+
